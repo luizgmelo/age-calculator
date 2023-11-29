@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 98vh;
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+
+.container {
+  background-color: #fff;
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+.title, .info, #output{
+  text-align: center;
+}
+
+
+#btCalculate {
+  background-color: #a8edea;
+  padding: 10px;
+  cursor: pointer;
+  margin-top: 20px;
+  border: none;
+}

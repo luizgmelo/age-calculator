@@ -14,8 +14,7 @@
 ## What is the project
 - A Age Calculator receive the birth date information calculate time until the actual date.
 
-- Technologies
-## Technology
+## Technologies
 ### ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) 
 HTML is a markup language for the creation and structure of web pages, consisting of a series of elements that define for the browser the content and the meaning it has.
 ### ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)

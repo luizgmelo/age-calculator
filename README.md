@@ -1,5 +1,7 @@
 # Age Calculator
 
+![age-calculator](https://github.com/luizgmelo/age-calculator/assets/88911920/2f6c6e28-623b-4aca-9457-d425dc2997ee)
+![age-caculator-mobile](https://github.com/luizgmelo/age-calculator/assets/88911920/37315937-bd1f-4006-a874-224eb33cf04b)
 
 ## Why
 - Sometimes I forget years of the people, sorry guys... This project calculate it for me ! (required birth date)
